@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveshare.allowGuestDebugControl": false,
+		"liveshare.languages.allowGuestCommandControl": true
+	}
+}
